@@ -1,5 +1,5 @@
-# Machine-Learning-Classification
+# Machine-Learning
 
-This GitHub repository focuses on applying different Machine Learning Algorithms using the Breast Cancer dataset. It asses the effectiveness of SVM, Decision Tree algorithms in breast cancer classification, providing valuable insights for real-world healthcare applications.
+This GitHub repository focuses on applying Machine Learning Algorithms using health-related datasets. It asses the effectiveness of SVM, Decision Tree, Neural Network algorithms for classification and regression problems, providing valuable insights for real-world healthcare applications.
 
 Thanks for visiting! (:
